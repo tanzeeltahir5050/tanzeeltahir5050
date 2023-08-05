@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Tanzeel Ur Rehman. I am a highly motivated and passionate full web stack developer with a strong academic background in computer science. I have a deep understanding of the full web development process, from conception to deployment.<br><br>I am proficient in a variety of programming languages and frameworks, including HTML, CSS, JavaScript, php, React, Express, Node, Codeigniter. I am also familiar with a variety of databases, such as MySQL and MongoDB.<br><br>I am a quick learner and I am always eager to take on new challenges. I am also a team player and I am able to work effectively with others. I am confident that I would be a valuable asset to your team.<br><br>Thank you for your time and consideration.
+Hi, my name is Tanzeel Ur Rehman. I am a highly motivated and passionate full stack web developer with a strong academic background in computer science. I have a deep understanding of the full web development process, from conception to deployment.<br><br>I am proficient in a variety of programming languages and frameworks, including HTML, CSS, JavaScript, php, React, Express, Node, Codeigniter. I am also familiar with a variety of databases, such as MySQL and MongoDB.<br><br>I am a quick learner and I am always eager to take on new challenges. I am also a team player and I am able to work effectively with others. I am confident that I would be a valuable asset to your team.<br><br>Thank you for your time and consideration.
 
 
 ## 🌐 Socials:
@@ -17,9 +17,6 @@ Hi, my name is Tanzeel Ur Rehman. I am a highly motivated and passionate full we
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=tanzeeltahir5050&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tanzeeltahir5050&icon=0&color=0)](https://visitcount.itsvg.in)
