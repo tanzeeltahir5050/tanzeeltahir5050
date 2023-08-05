@@ -21,9 +21,6 @@ Hi, my name is Tanzeel Ur Rehman. I am a highly motivated and passionate full we
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=tanzeeltahir5050&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=tanzeeltahir5050&icon=0&color=0)](https://visitcount.itsvg.in)
 
